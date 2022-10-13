@@ -16,3 +16,15 @@ Os desafios que o tratamento e interpretação dos dados oferecem me despertou u
 
 “In God we trust, all others must bring data.”
 W. Edwards Deming
+
+
+### Autor
+
+    <a href="https://github.com/pablobodock">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/100739328?v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Pablo Carvalho</b></sub></a>
+
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-Maria-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablocssousa/)](https://www.linkedin.com/in/pablocssousa/) 
