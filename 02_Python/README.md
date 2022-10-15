@@ -1,0 +1,1 @@
+esse é um arquivo para toeria de python
