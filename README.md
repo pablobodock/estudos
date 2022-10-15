@@ -18,8 +18,8 @@ Os desafios que o tratamento e interpretação dos dados oferecem me despertou u
 <b>W. Edwards Deming</b>
 
 <h2 align="centre"><b>Git/GitHub</b></h2>
-Com o intuito de me inserir na comunidade de tecnologia de informação para contribuir e receber contribuições em paralelo com os estudos em programação e análise de dados, comecei também a participar do GitHub.
-<p>
+Com o intuito de me inserir na comunidade de tecnologia de informação para contribuir e receber contribuições, em paralelo com os estudos em programação e análise de dados, comecei também a participar do GitHub.
+
 Vocês podem acompanhar um pouco do que já aprendi a respeito e espero eu até encontrar respostas para algumas dúvidas na pasta que criei dedicada os meus resumos sobre funcionalidades e manuseio dessa ferramenta através do link abaixo.
 
 <a href="https://github.com/pablobodock/estudos/tree/master/01_GitHub">01_GitHub</a>
