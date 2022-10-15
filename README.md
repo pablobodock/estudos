@@ -1,8 +1,8 @@
 <h1 align="center"> Minha Jornada de Aprendizado  </h1>
 
-# Motivação
+##<b>Motivação</b>
 
-Sou formado em Engenharia Elétrica desde 2017 e de lá pra cá posso dizer que obtive uma boa carga de experiência com presação de serviços de infraestrutura elétrica e operação industrial. Seja de uma forma mais ou menos estruturada, um fato comum aos ambientes no qual já trabalhei é que as decisões são tomadas a partir de dados.
+Sou formado em Engenharia Elétrica desde 2017 e de lá pra cá posso dizer que obtive uma boa carga de experiência com prestação de serviços de infraestrutura elétrica e operação industrial. Seja de uma forma mais ou menos estruturada, um fato comum aos ambientes no qual já trabalhei é que as decisões são tomadas a partir de dados.
 
 Quando trabalhei em um contrato de prestação de serviço de construção e manutenção de rede para Celpe, todo o orçamento e planejamento financeiro, mobilização e desmobilização de equipes e até propostas técnicas comerciais para novas licitações era montado em cima da produtividade das equipes registradas no banco de dados de tempos e movimentos correlacionado ao banco de dados de serviço faturado no contrato.
 
@@ -14,7 +14,7 @@ O acompanhamento dos dados traduzidos nos indicadores de performance sempre esti
 
 Os desafios que o tratamento e interpretação dos dados oferecem me despertou um maior interesse de me aprofundar nesse campo de estudo.
 
-“In God we trust, all others must bring data.”
-W. Edwards Deming
+<i>“In God we trust, all others must bring data.”</i>
+<b>W. Edwards Deming</b>
 
 
