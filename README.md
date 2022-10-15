@@ -1,6 +1,6 @@
 <h1 align="center"> Minha Jornada de Aprendizado  </h1>
 
-##<b>Motivação</b>
+<h2 align="centre"><b>Motivação</b></h2>
 
 Sou formado em Engenharia Elétrica desde 2017 e de lá pra cá posso dizer que obtive uma boa carga de experiência com prestação de serviços de infraestrutura elétrica e operação industrial. Seja de uma forma mais ou menos estruturada, um fato comum aos ambientes no qual já trabalhei é que as decisões são tomadas a partir de dados.
 
