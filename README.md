@@ -22,4 +22,9 @@ Com o intuito de me inserir na comunidade de tecnologia de informação para con
 
 Vocês podem acompanhar um pouco do que já aprendi a respeito e espero eu até encontrar respostas para algumas dúvidas na pasta que criei dedicada os meus resumos sobre funcionalidades e manuseio dessa ferramenta através do link abaixo.
 
-<a href="https://github.com/pablobodock/estudos/tree/master/01_GitHub">01_GitHub</a>
+<ol>
+<li type="i"><a href="https://github.com/pablobodock/estudos/tree/master/01_GitHub">01_GitHub</a>
+<li type="i"><a href="https://github.com/pablobodock/estudos/tree/master/02_Python">02_Python</a>
+<li type="i"><a href="https://github.com/pablobodock/estudos/tree/master/03_CRISP-DM">03_CRISP-DM</a>
+<li type="i"><a href="https://github.com/pablobodock/estudos/tree/master/04_SCRUM">04_SCRUM</a>
+</ol>
