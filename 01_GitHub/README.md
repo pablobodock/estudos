@@ -23,7 +23,7 @@ O Git é um dos sistemas disponíveis no mercado que realizam essa tarefa de ger
 A configuração do git para que as informações possam passar para todos os repositórios do usuário, é feito o config do global. Para tanto, insere-se na linha de comando do terminal:
 
 Configurando o nome:<br>
-{c:bue}<i>git config --global user.name "Seu Nome"</i>{/c}
+{c:blue}<i>git config --global user.name "Seu Nome"</i>{/c}
 
 Configurando o email:<br>
 <font color=#0000FF><i>git config --global user.email "seuemail@email.com.br"</i></font>
