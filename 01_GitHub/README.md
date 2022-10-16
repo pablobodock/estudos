@@ -23,20 +23,25 @@ O Git é um dos sistemas disponíveis no mercado que realizam essa tarefa de ger
 A configuração do git para que as informações possam passar para todos os repositórios do usuário, é feito o config do global. Para tanto, insere-se na linha de comando do terminal:
 
 Configurando o nome:<br>
+
 1. <i>git config --global user.name "Seu Nome"</i></c>
 
 Configurando o email:<br>
+
 2. <i>git config --global user.email "seuemail@email.com.br"</i>
 
 É possível também configurar o editor principal do git, caso seja necessário digitar alguma mensagem como em um commit.
 
 Configurando o edtiro de texto principal: <br>
+
 3. <i>git config --global core.editor "comando do editor sem as aspas"</i>
 
 Para saber as informações contidas nas configurações do git basta digitar na linha de comando:<br>
+
 4. <i>git config --list</i>
 
 Caso queira saber apenas um parâmetro especifico, digita-se: <br>
+
 5. <i>git config --"parâmetros sem as aspas"</i>
 
 <h2 align="left"><b>Criação de Pastas/Movimentação de caminho pelo Terminal</b></h2>
