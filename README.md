@@ -7,7 +7,7 @@
 <h2 align="left"><b>Índice</b></h2>
 
 * [Motivação](#Motivação)
-* [Git/GitHub](#gigithub)
+* [Git/GitHub](#gitgithub)
 
 ## <b>Motivação</b>
 
