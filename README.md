@@ -1,4 +1,4 @@
-![DataSciency](https://i.pinimg.com/564x/0f/0b/af/0f0bafcd2dac42a948d3871c84b15326.jpg)
+[<img src="https://i.pinimg.com/564x/0f/0b/af/0f0bafcd2dac42a948d3871c84b15326.jpg" width=1500>](https://github.com/pablobodock/estudos)
 
 <h1 align="center"><b>Minha Jornada de Aprendizado</b></h1>
 
@@ -40,4 +40,4 @@ Vocês podem acompanhar um pouco do que já aprendi a respeito e espero eu até 
 </ol> -->
 
 ## <b>Autor:</b>
-[<img src="https://avatars.githubusercontent.com/u/100739328?s=400&u=4239667bd3d16f391bcf6eeaeb4b94877fd976f0&v=4" width=150><br><sub><b>Pablo Carvalho Silva Sousa</b></sub>](https://github.com/camilafernanda)
+[<img src="https://avatars.githubusercontent.com/u/100739328?s=400&u=4239667bd3d16f391bcf6eeaeb4b94877fd976f0&v=4" width=150><br><sub><b>Pablo Carvalho Silva Sousa</b></sub>](https://github.com/pablobodock)
